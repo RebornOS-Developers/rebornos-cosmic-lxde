@@ -1,6 +1,6 @@
 # Maintainer: CookieSource <cookiesource@rebornos.org>
 # Added screenshot tool, gparted & audacious
-# 2021.06.23 lxappearance-obconf-gtk3 removed (Otherwise it does not open the system appearance configurator)
+# 2021.06.23 lxappearance-obconf-gtk3 removed (Otherwise not open the system appearance configurator)
 pkgname=rebornos-cosmic-lxde
 pkgver=1.1
 pkgrel=1
